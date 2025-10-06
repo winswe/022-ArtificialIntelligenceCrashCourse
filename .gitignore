@@ -1,3 +1,5 @@
 MNIST_data/
 face_dataset/
+alien_predator/
 *.pth
+*.zip
